@@ -1,5 +1,5 @@
-Data Science Projects
-Titanic Survival Prediction
+## Data Science Projects
+## Titanic Survival Prediction
 Project Overview:
 
 This project focuses on predicting the survival of passengers on the Titanic. By analyzing historical passenger data, we aim to build a machine learning model that can accurately predict survival outcomes.
@@ -22,8 +22,9 @@ Train the selected model on the preprocessed data.
 Model Evaluation:
 
 Evaluate the model's performance using metrics like accuracy, precision, recall, and F1-score.
-Visualize the model's predictions using confusion matrices and ROC curves.   
-Credit Card Fraud Detection
+Visualize the model's predictions using confusion matrices and ROC curves.  
+
+## Credit Card Fraud Detection
 Project Overview:
 
 This project aims to develop a machine learning model to detect fraudulent credit card transactions. By analyzing historical transaction data, we can identify patterns associated with fraudulent activity.
@@ -47,7 +48,8 @@ Model Evaluation:
 
 Evaluate the model's performance using metrics like accuracy, precision, recall, F1-score, and ROC-AUC curve.
 Consider using a confusion matrix to visualize the model's predictions.
-Sales Prediction
+
+## Sales Prediction
 Project Overview:
 
 This project focuses on predicting future sales using historical sales data. By analyzing past trends and patterns, we can forecast future sales trends.
@@ -71,7 +73,8 @@ Model Evaluation:
 
 Evaluate the model's performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).   
 Visualize the predicted and actual values to assess the model's accuracy.
-Movie Rating Prediction
+
+## Movie Rating Prediction
 Project Overview:
 
 This project aims to predict movie ratings based on user and movie information. By analyzing user preferences and movie attributes, we can recommend movies to users.
