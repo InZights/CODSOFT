@@ -42,8 +42,9 @@ Create new features based on time-series analysis or statistical measures.
 Use domain knowledge to identify relevant features.
 Model Selection and Training:
 
-Experiment with algorithms suitable for imbalanced datasets (e.g., Logistic Regression, XGBoost).
+Experiment with algorithms suitable for imbalanced datasets (e.g., Logistic Regression and XGBoost).
 Train the selected model on the preprocessed data.
+
 Model Evaluation:
 
 Evaluate the model's performance using metrics like accuracy, precision, recall, F1-score, and ROC-AUC curve.
